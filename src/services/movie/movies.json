@@ -1,0 +1,80 @@
+
+[
+    { 
+    "movieId":1, 
+    "movieName":"Shaitan", 
+    "moviePoster":"assets/movie-images/Shaitan.jpg", 
+    "languages":["Hindi"], 
+    "duration": "2hr 22min", 
+    "genres": ["Supernatural", "Thriller"], 
+    "releaseDate":"8/03/2024", 
+    "movieDetail":"Kabir and his family`s fun weekend retreat takes a nightmarish turn when they let a friendly but mysterious stranger into their house. As the clock ticks, the family will be forced to confront their worst fears in this gripping, edge-of-the-seat supernatural-thriller that deals with the sinister elements of Indian Black Magic.", 
+    "censorBoardRating":" U/A"
+    },
+    { 
+    "movieId":2, 
+    "movieName":"Kung Fu Panda 4Kung Fu Panda 4", 
+    "moviePoster":"assets/movie-images/kungFuu.jpg", 
+    "languages":["Hindi","English","Tamil","Telugu"], 
+    "duration": "1hr 33min", 
+    "genres": ["Action","Animation","Comedy","Adventure"], 
+    "releaseDate":"15/03/2024", 
+    "movieDetail":"Po faces his greatest challenge yet when he ventures to the big city and meets a new villain called the Chameleon.", 
+    "censorBoardRating":"U" 
+    },
+    { 
+    "movieId":3, 
+    "movieName":"Godzilla x Kong: The New Empire", 
+    "moviePoster": "assets/movie-images/Godzila.jpg", 
+    "languages":["Hindi","English","Tamil","Telugu"],
+    "duration": "1hr 54min", 
+    "genres": ["Action","Sci-Fi","Thriller"], 
+    "releaseDate":"29/03/2024", 
+    "movieDetail":"An all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence-and our own.", 
+    "censorBoardRating":" UA"
+    },
+    { 
+    "movieId":4, 
+    "movieName":"Article 370", 
+    "moviePoster":"assets/movie-images/article370.jpg ", 
+    "languages":["Hindi"], 
+    "duration": "2hr 40min", 
+    "genres": ["Drama","Political"], 
+    "releaseDate":"23/02/2024", 
+    "movieDetail":"In the aftermath of the 2016 Kashmir unrest, a young local field agent, Zooni Haksar, is picked out by Rajeshwari Swaminathan from the Prime Minister`s Office for a top secret mission. Their aim? Cracking down on terrorism and putting an end to the billion dollar conflict economy in the valley, by doing the absolute impossible - Abrogating the notorious Article 370. That too, without spilling a single drop of innocent blood.", 
+    "censorBoardRating":"UA"
+    },
+    { 
+    "movieId":5, 
+    "movieName":"Yodha", 
+    "moviePoster":"assets/movie-images/Yodha.jpg", 
+    "languages":["Hindi"], 
+    "duration": "2hr 13mins", 
+    "genres": ["Action","Thriller"], 
+    "releaseDate":"15/03/2024", 
+    "movieDetail":"After failing at an important mission - years later, the system is shocked to find Arun on board in very mysterious circumstances on a hijacked flight. All evidence points towards Arun being on a mission for revenge against the system that snatched everything away from him.", 
+    "censorBoardRating":"12A" 
+    },
+    { 
+    "movieId":6, 
+    "movieName":"Madgaon Express", 
+    "moviePoster":"assets/movie-images/MadgaonExpress.jpg", 
+    "languages":["Hindi"], 
+    "duration": "2hr 25min", 
+    "genres": ["Drama","Comedy"], 
+    "releaseDate":"22/03/2024", 
+    "movieDetail":"Three childhood friends embark on a trip to Goa that goes completely off-track when they wake up in a hotel room and find cocaine that belongs to a don named Mendoza.", 
+    "censorBoardRating":"UA" 
+    },
+    { 
+    "movieId":7, 
+    "movieName":"Bade Miyan Chote Miyan", 
+    "moviePoster":"assets/movie-images/BadeMiyan.jpg", 
+    "languages":["Hindi","Tamil","Telugu","kannada"], 
+    "duration": "2hr 25min", 
+    "genres": ["Action","Thriller"], 
+    "releaseDate":"10/04/2024", 
+    "movieDetail":"When a masked enemy rises within the nation, mercilessly targeting the military by stealing the country`s most dangerous weapon, Colonel Azad sends his best officer to unearth two legendary from his unit for the missionBrooding Bade Miyan and cocky Chote Miyan", 
+    "censorBoardRating":"UA" 
+    }
+    ] 

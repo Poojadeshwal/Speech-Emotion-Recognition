@@ -1,0 +1,226 @@
+[
+    {
+        "artistId": 1,
+        "name": "Sidharth Malhotra",
+        "image": "assets/artist-images/SidharthMalhotra.jpg",
+        "role": [
+            "Actor",
+            "Assistant Director"
+        ]
+    },
+    {
+        "artistId": 2,
+        "name": "Akshay Kumar",
+        "image": "assets/artist-images/akshay-kumar.jpg",
+        "role": [
+            "Actor",
+            "Producer"
+        ]
+    },
+    {
+        "artistId": 3,
+        "name": "Tiger Shroff",
+        "image": "assets/artist-images/tiger.jpg",
+        "role": [
+            "Actor"
+        ]
+    },
+    {
+        "artistId": 4,
+        "name": "Diljit Dosanjh ",
+        "image": "assets/artist-images/Diljit-Dosanjh.jpg",
+        "role": [
+            "Indian Singer",
+            "Song Writer",
+            "Actor",
+            "Film Producer",
+            "Television Personality"
+        ]
+    },
+    {
+        "artistId": 5,
+        "name": "Yo Yo Honey Singh ",
+        "image": "assets/artist-images/HoneySingh.jpg",
+        "role": [
+            "Indian Music Producer",
+            "Composer",
+            "Rapper",
+            "Singer",
+            "Lyricist",
+            "Actor"
+        ]
+    },
+    {
+        "artistId": 6,
+        "name": "Shah Rukh Khan ",
+        "image": "assets/artist-images/ShahRukhkhan.jpg",
+        "role": [
+            "Actor",
+            "Producer"
+        ]
+    },
+    {
+        "artistId": 7,
+        "name": "Preity Zinta",
+        "image": "assets/artist-images/Preity-Zinta.jpg",
+        "role": [
+            "Actor"
+        ]
+    },
+    {
+        "artistId": 8,
+        "name": "Kangana Amardeep Ranaut ",
+        "image": "assets/artist-images/kangana.jpg",
+        "role": [
+            "Actress",
+            "Filmmaker"
+        ]
+    },
+    {
+        "artistId": 9,
+        "name": "Ranveer Singh Bhavnani ",
+        "image": "assets/artist-images/Ranveer.jpg",
+        "role": [
+            "Actor"
+        ]
+    },
+    {
+        "artistId": 10,
+        "name": "Deepika Padukone ",
+        "image": "assets/artist-images/Deepika.jpg",
+        "role": [
+            "Actress"
+        ]
+    },
+    {
+        "artistId": 11,
+        "name": "Anubhav Singh Bassi",
+        "image": "assets/artist-images/Anubhav-Singh-Bassi",
+        "role": [
+            "Actor",
+            "YouTuber",
+            "Stand-Up Comedian"
+        ]
+    },
+    {
+        "artistId": 12,
+        "name": "Nayab Midha ",
+        "image": "assets/artist-images/NayabMidha.jpg",
+        "role": [
+            "Poetess",
+            "Stand-Up Comedian"
+        ]
+    },
+    {
+        "artistId": 13,
+        "name": "Harsh Gujral",
+        "image": "assets/artist-images/HarshGujral.jpg",
+        "role": [
+            "Stand-Up Comedian"
+        ]
+    },
+    {
+        "artistId": 14,
+        "name": "B Praak",
+        "image": "assets/artist-images/BPraak.jpg",
+        "role": [
+            "Indian Singer",
+            "Music Director",
+            "Composer",
+            "Music Producer"
+        ]
+    },
+    {
+        "artistId": 15,
+        "name": "Manhar Seth ",
+        "image": "assets/artist-images/ManharSeth.jpg",
+        "role": [
+            "Poet",
+            "Stand-Up Comedian"
+        ]
+    },
+    {
+        "artistId": 16,
+        "name": "Sagar Bhatia ",
+        "image": "assets/artist-images/SagarBhatia.jpg",
+        "role": [
+            "Singer",
+            "Composer"
+        ]
+    },
+    {
+        "artistId": 17,
+        "name": "Gursimran Khamba",
+        "image": "assets/artist-images/GursimranKhamba.jpg",
+        "role": [
+            "Stand-Up Comedian"
+        ]
+    },
+    {
+        "artistId": 18,
+        "name": "Nizami Bandhu",
+        "image": "assets/artist-images/NizamiBandhu.jpg",
+        "role": [
+            "Singer",
+            "Composer"
+        ]
+    },
+    {
+        "artistId": 19,
+        "name": "Ajay Devgan",
+        "image": "assets/artist-images/ajay.jpg",
+        "role": [
+            "Actor",
+            "Film Director",
+            "Film Producer"
+        ]
+    },
+    {
+        "artistId": 20,
+        "name": "Jack Black",
+        "image": "assets/artist-images/jack.jpg",
+        "role": [
+            "Actor"
+        ]
+    },
+    {
+        "artistId": 21,
+        "name": "Awkwafina",
+        "image": "assets/artist-images/awkwafina.jpg",
+        "role": [
+            "Actress"
+        ]
+    },
+    {
+        "artistId": 22,
+        "name": "Viola Davis",
+        "image": "assets/artist-images/ViolaDavis.jpg",
+        "role": [
+            "Actress","Film Producer"
+        ]
+    },
+    {
+        "artistId": 23,
+        "name": "R. Madhavan",
+        "image": "assets/artist-images/R.Madhavan.jpg",
+        "role": [
+            "Actor","Film Producer","Film Director"
+        ]
+    },
+    {
+        "artistId": 24,
+        "name": "Jyotika Sadanah",
+        "image": "assets/artist-images/JyotikaSadanah.jpg",
+        "role": [
+            "Actress","Film Producer"
+        ]
+    },
+    {
+        "artistId": 25,
+        "name": "Janki Bodiwala",
+        "image": "assets/artist-images/JankiBodiwala.jpg",
+        "role": [
+            "Actress"
+        ]
+    }
+]
